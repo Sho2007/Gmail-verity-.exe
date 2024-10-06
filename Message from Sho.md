@@ -1,4 +1,4 @@
-# Gmail verify program.exe
+# Gmail verify program.exe ( expire ❌ )
 
 Just enter your gmail and the program will send a verification code to your gmail.
 Then you can enter the verification code into our program.
